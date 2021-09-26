@@ -1,0 +1,22 @@
+.caja{
+
+    /*
+    
+    Medida relativa
+
+    */
+    width:50%; 
+    background-color: blue;
+}
+
+.caja2{
+
+    /*
+    
+    Medidas explicitas
+    
+    */
+
+    width: 1000px;
+    background-color: red;
+}

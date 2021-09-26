@@ -1,0 +1,22 @@
+.caja{
+    background-color: red;
+    /* 
+    
+    inline-block
+    inline
+    grid
+    flex
+    
+    */
+    display: inline;
+}
+
+p{
+    background-color: aliceblue;
+}
+
+div {
+    background-color: red;
+    display: inline;
+}
+
